@@ -1,7 +1,9 @@
-# UniqueBizFinder Overview
+# UniqueBizFinder
+
+## Overview
 The UniqueBizFinder is a business intelligence tool designed to identify businesses that exist in one geographic market but not in another. The current implementation specifically compares business presence between Fargo, ND and Grand Forks, ND using the Google Places API to detect market opportunities and competitive gaps.
 
-## System Architecture Overview
+## System Architecture
 The UniqueBizFinder operates as a data processing pipeline that integrates with external APIs to perform market analysis. The system follows a simple but effective architecture centered around the Jupyter notebook implementation.
 
 ### Core System Components
