@@ -130,6 +130,7 @@ if __name__ == '__main__':
 ✅ Unique businesses in Fargo but not Grand Forks saved as 'fargo_unique_businesses.csv'
                                      
  **Name**
+ 
 0                          Sweeto Burrito   
 1                             Burger Time   
 2               Popeyes Louisiana Kitchen   
@@ -142,6 +143,7 @@ if __name__ == '__main__':
 9                               Taco Shop   
 
  **Type**
+ 
 0  restaurant, food, point_of_interest, establish...   
 1  restaurant, food, point_of_interest, establish...   
 2  restaurant, food, point_of_interest, establish...   
@@ -154,6 +156,7 @@ if __name__ == '__main__':
 9  restaurant, food, point_of_interest, establish...   
  
   **Location**
+  
 6  4445 17th Ave S suite 3b, Fargo  ChIJO4R2FwDLyFIRiA2ZDmjQFWg  
 7   1100 19th Ave N suite e, Fargo  ChIJN48pAS_JyFIRbH879xif2sA  
 8            1680 45th St S, Fargo  ChIJaT0JVF7LyFIR37riolQttMs  
