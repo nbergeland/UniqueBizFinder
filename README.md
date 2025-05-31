@@ -1,5 +1,5 @@
 # UniqueBizFinder
-Find businesses which exist in one market, but not another
+Finds businesses which exist in one market, but not another.  Example used is Fargo, ND vs. Grand Forks, ND.
 
 # Code Notebook
 
